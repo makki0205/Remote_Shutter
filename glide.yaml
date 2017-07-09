@@ -1,0 +1,3 @@
+package: github.com/makki0205/remote_shutter
+import:
+- package: github.com/trevex/golem
